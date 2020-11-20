@@ -1,22 +1,22 @@
 ﻿/***;
-*Project            : When they are gone
+*Project            : Traffic Jumper 
 *
-*Program name       : "PlayButtonBehaviour.cs"
+*Program name       : "LoadSceneButtonBehaviour.cs"
 *
 * Author            : Ivan Kravchenko
 * 
 * Student Number    : 101183016
 *
-*Date created       : 20/10/03
+*Date created       : 20/11/20
 *
 *Description        : Load scenes with button press.
 *
-*Last modified      : 20/10/03
+*Last modified      : 20/11/20
 *
 * Revision History  :
 *
 *Date        Author Ref    Revision (Date in YYYYMMDD format) 
-*201003    Ivan Kravchenko        Created script. 
+*201120    Ivan Kravchenko        Created script. 
 *
 |**/
 

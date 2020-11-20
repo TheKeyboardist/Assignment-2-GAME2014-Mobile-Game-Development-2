@@ -1,4 +1,29 @@
-﻿using System.Collections;
+﻿/***;
+*Project            : Traffic Jumper 
+*
+*Program name       : "BackgoundMusicController.cs"
+*
+* Author            : Ivan Kravchenko
+* 
+* Student Number    : 101183016
+*
+*Date created       : 20/11/20
+*
+*Description        : Plays music throughout the entire game and gets muted when gameplayscene is loaded.
+*
+*Last modified      : 20/11/20
+*
+* Revision History  :
+*
+*Date        Author Ref    Revision (Date in YYYYMMDD format) 
+*201120    Ivan Kravchenko        Created script. 
+*
+|**/
+
+
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
